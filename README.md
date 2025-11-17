@@ -42,21 +42,22 @@ I’m passionate about building **scalable, automated, cloud-native platforms** 
 </ul>  
 </details>  
 
-## 🚀 Technologies & Tools  
+## 🚀 Technologies & Tools
 
-<div align="center">  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2E2E2E)  
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=2E2E2E)  
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=2E2E2E)  
-  ![Helm](https://img.shields.io/badge/Helm-0F172A?style=for-the-badge&logo=helm&logoColor=white&labelColor=2E2E2E)  
-  ![ArgoCD](https://img.shields.io/badge/ArgoCD-E6162D?style=for-the-badge&logo=argo&logoColor=white&labelColor=2E2E2E)  
-  ![Rancher](https://img.shields.io/badge/Rancher-0075C4?style=for-the-badge&logo=rancher&logoColor=white&labelColor=2E2E2E)  
-  ![OpenShift](https://img.shields.io/badge/OpenShift-DD0031?style=for-the-badge&logo=openshift&logoColor=white&labelColor=2E2E2E)  
-  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=2E2E2E)  
-  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=2E2E2E)  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=2E2E2E)  
-</div>  
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2E2E2E)  
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=2E2E2E)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=2E2E2E)  
+![Helm](https://img.shields.io/badge/Helm-0F172A?style=for-the-badge&logo=helm&logoColor=white&labelColor=2E2E2E)  
+![ArgoCD](https://img.shields.io/badge/ArgoCD-E6162D?style=for-the-badge&logo=argo&logoColor=white&labelColor=2E2E2E)  
+![Rancher](https://img.shields.io/badge/Rancher-0075C4?style=for-the-badge&logo=rancher&logoColor=white&labelColor=2E2E2E)  
+![OpenShift](https://img.shields.io/badge/OpenShift-DD0031?style=for-the-badge&logo=openshift&logoColor=white&labelColor=2E2E2E)  
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=2E2E2E)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=2E2E2E)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=2E2E2E)  
+
+</div>
 ## 😄 Pronouns  
 He/Him  
 
